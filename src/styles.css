@@ -16,3 +16,14 @@ body {
 .v-middle {
   vertical-align: middle;
 }
+
+.mat-card form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+.mat-card button {
+  margin-top: 20px;
+  margin-right: 15px;
+}
